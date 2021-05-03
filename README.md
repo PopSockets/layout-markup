@@ -3,7 +3,7 @@ This repository contains the markup for popsockets content assets.
 
 [banner-carousel](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-carousel.html)
 
-[banner-carousel](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-carousel-full-width.html)
+[banner-carousel-full-width](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-carousel-full-width.html)
 
 [banner-image](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-image.html)
 
