@@ -5,7 +5,7 @@ This repository contains the markup for popsockets content assets.
 
 [banner-image](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-image.html)
 
-[banner-image-full-width](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-image-full-width)
+[banner-image-full-width](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-image-full-width.html)
 
 [banner-video](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-video.html)
 
