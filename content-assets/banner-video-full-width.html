@@ -1,0 +1,24 @@
+<div class="video-banner-container video-banner-container-full-width">
+    <div class="video-banner">
+        <iframe class="video-desktop"
+            src="https://player.vimeo.com/video/511280477?autoplay=1&loop=1&title=0&byline=0&portrait=0?controls=0&background=1"
+            frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe class="video-mobile"
+            src="https://player.vimeo.com/video/511280418?autoplay=1&loop=1&title=0&byline=0&portrait=0?controls=0&background=1"
+            frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <div class="container">    
+            <div id="video-overlay" style="z-index: 100;">
+                <a id="home-main-overlay" href="$url('Search-Show','cgid','mounts')$">
+                    <btn class="btn btn-primary" style="background-color: #ffffff; color: #00263E">PRIMARY BUTTON TEXT</btn>
+                </a>
+            </div>
+        </div>
+    </div>
+    <picture class="video-fallback-image">
+        <source media="(max-width: 768px)" srcset="https://via.placeholder.com/810x1080.png?text=Mobile+Image" />
+        <source media="(min-width: 769px)" srcset="https://via.placeholder.com/1130x678.png?text=Desktop+Image" />
+        <img src="https://via.placeholder.com/1130x678.png?text=Desktop+Image"
+            alt="Description of vimeo fallback image." />
+    </picture>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+</div>
