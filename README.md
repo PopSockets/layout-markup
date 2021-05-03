@@ -11,6 +11,8 @@ This repository contains the markup for popsockets content assets.
 
 [banner-video](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-video.html)
 
+[banner-video-full-width](https://github.com/PopSockets/layout-markup/blob/main/content-assets/banner-video-full-width.html)
+
 [card-deck-2](https://github.com/PopSockets/layout-markup/blob/main/content-assets/card-deck-2.html)
 
 [card-deck-3](https://github.com/PopSockets/layout-markup/blob/main/content-assets/card-deck-3.html)
